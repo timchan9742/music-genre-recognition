@@ -13,7 +13,6 @@ from sklearn.preprocessing import LabelEncoder, StandardScaler
 from sklearn.metrics import roc_curve
 from sklearn.metrics import roc_auc_score
 import matplotlib.image as mpimage
-from PIL import Image
 
 genres = ['blues', 'classical', 'country', 'disco', 'hiphop', 'jazz', 'metal',
         'pop', 'reggae', 'rock']
