@@ -27,3 +27,6 @@ The trained model achieved an accuracy of 78% on the GTZAN Dataset.
 3. Run feature_extraction.py for data preprocessing.
 4. Run train.py to train the CNN model.
 5. Test the model or visualize the learned filters using the provided scripts.
+
+## Acknowledgements
+This project is inspired by the article [Recommending music on Spotify with Deep Learning](https://sander.ai/2014/08/05/spotify-cnns.html).
