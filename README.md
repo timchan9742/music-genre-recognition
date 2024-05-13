@@ -16,10 +16,10 @@ The trained model achieved an accuracy of 78% on the GTZAN Dataset.
 <img width="711" alt="Screenshot 2024-05-12 at 15 18 55" src="https://github.com/timchan9742/music-genre-recognition/assets/167204379/ddfcc4f8-d420-4f02-b737-adfeea9d3ca8">
 
 ## Directory Structure
-- `/data`: Contains preprocessed data.
-- `/model`: Contains the trained CNN model.
-- `/genres`: Contains the GTZAN Dataset.
-- `/visualization`: Contains the filter visualizations.
+- `/data`: This directory contains the preprocessed data in .pkl format.
+- `/models`: This directory contains the trained CNN model.
+- `/genres`: This directory contains the GTZAN Dataset.
+- `/visualization`: This directory contains the filter visualizations from each CNN layer.
 
 ## Usage
 1. Clone the repository.
