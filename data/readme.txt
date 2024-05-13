@@ -1,0 +1,1 @@
+This directory should contain the preprocessed data in .pkl format after feature_extraction.py is run.
